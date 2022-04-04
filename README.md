@@ -1,4 +1,1 @@
-un Backend realizado con TypeScript y mongoDB
-# backend-local-Login-alumnos
-# backend-local-Login-alumnos
-# backend-proyect-login-alumnos
+Hola, este repo esta vazado en el que deploye para mi portafolio, actualmente solo tienen que cambiar en date, el link de una base de datos de atlas.
