@@ -1,1 +1,1 @@
-Hola, este repo esta vazado en el que deploye para mi portafolio, actualmente solo tienen que cambiar en date, el link de una base de datos de atlas.
+Hola, este repo en el cual trabaje solo el backend con TypeScript y mongoDB desafortunadamente no lo puedo deployar aun pero con gusto lo pueden usar de manera local, en config vean si usan mi configuracion o localhost, disculpe que sea un codigo tan brusco, realice un CRUD completo y utilice Jwt para asegurar las rutas en las cuales realizas el listado de alumnos, editarlos, eliminarlos y verlos renderizados.
